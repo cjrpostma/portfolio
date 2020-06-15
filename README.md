@@ -11,4 +11,5 @@ This is my simple portfolio site. It uses the following technology:
 
 # Deployment
 
-chrispostma.dev
+Deployed via Netlify:
+[chrispostma.dev](http://chrispostma.dev)
