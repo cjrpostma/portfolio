@@ -8,3 +8,7 @@ This is my simple portfolio site. It uses the following technology:
 - Prism.js highlighting
 - Responsive images with gatsby-image
 - ESLint & Prettier
+
+# Deployment
+
+chrispostma.dev
